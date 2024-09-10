@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 title: Свирюков Михаил
 description: Личная информация
 theme: Dinky
+=======
+title: <Свирюков Михаил>
+description: <Информация>
+theme: jekyll-theme-minimal
+>>>>>>> ab1e620 (Update _config.yml)
 
